@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">SimpleSocketExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="ip_val">IP address:</string>
+    <string name="port_val">Port:</string>
+    <string name="description">The server app recognizes 2 commands, \&quot; hello \&quot; and \&quot; quit \&quot;\n Both commands send a confirmation of received, and \&quot;quit\&quot; makes the server app shutdown. For db type \&quot;db;msg1;msg2\&quot;</string>
+    <string name="recv">Received Messages:</string>
+    <string name="dots">....................</string>
+
+</resources>
